@@ -28,3 +28,5 @@ Uses the Yahoo! Answers Dataset for cQA - 2010 and the Yahoo! Answers Topic Clas
 Combinations of cosine similarity, levenshtein distance and the dice metric were used as similarity measures to compare question similarity and all approaches were evaluated using F-score 
 
 Cosine Similarity + Word-Based Levenshtein Distance with final value as count × dice metric achieved the highest F-score of 0.99875 
+
+This combination is used in the final system as well, with the choice of dataset left to the user 
