@@ -1,6 +1,6 @@
-#Online QA System 
+##Online QA System 
 
-## Wiki-QA 
+Wiki-QA 
 
 
 Basic QA system in base language English, implemented using the MediaWikiAPI 
